@@ -1,8 +1,8 @@
 .altcolor{
     background-color:#1502bf80;
-    border-radius:15px;
+    border-radius:10px;
      margin-top:20px;
-    padding:20px;
+    padding:10px;
 }
 .form-control {
     display: inline-block;
@@ -18,7 +18,7 @@ body {
 	color: #FFFFFF;
 }
     .square{
-        width: 70px;
-        height: 70px;
+        width: 50px;
+        height: 50px;
         Background-color: #004000
     }
