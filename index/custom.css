@@ -1,0 +1,24 @@
+.altcolor{
+    background-color:#1502bf80;
+    border-radius:15px;
+     margin-top:20px;
+    padding:20px;
+}
+.form-control {
+    display: inline-block;
+}
+
+.invis {
+    display: none;
+}
+body {
+	background-image: url(bg.jpg);
+	background-color:#004000;
+	background-repeat: repeat-x;
+	color: #FFFFFF;
+}
+    .square{
+        width: 70px;
+        height: 70px;
+        Background-color: #004000
+    }
